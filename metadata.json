@@ -1,0 +1,6 @@
+{
+  "name": "Timer Simple",
+  "description": "A clean, modern, and easy-to-use timer and stopwatch web app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
